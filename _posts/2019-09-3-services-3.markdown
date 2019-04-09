@@ -1,6 +1,6 @@
 ---
 layout: default
-img: pn1.jpg
+img: pn1.png
 category: Services
 title: Phòng ngủ 1
 description: |

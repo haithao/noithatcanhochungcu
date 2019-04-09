@@ -1,6 +1,6 @@
 ---
 layout: default
-img: pn2.jpg
+img: pn2.png
 category: Services
 title: Phòng ngủ 2
 description: |

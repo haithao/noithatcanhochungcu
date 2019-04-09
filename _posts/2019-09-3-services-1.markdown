@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ketivi.jpg
+img: ketivi.png
 category: Services
 title: Ke ti vi phòng khách
 description: |
