@@ -5,4 +5,4 @@ category: Services
 title: Khu bếp
 description: |
 ---
-  Khu bếp của căn hộ
+  Khu bếp của căn hộ. Chất liệu mdf lõi xanh chống ẩm phủ melamine.

@@ -5,4 +5,4 @@ category: Services
 title: Phòng ngủ 2
 description: |
 ---
-  Phòng ngủ căn hộ chung cư
+  Phòng ngủ căn hộ chung cư. Chất liệu mdf lõi xanh chống ẩm phủ melamine.

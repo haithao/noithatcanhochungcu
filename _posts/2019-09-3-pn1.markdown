@@ -5,4 +5,4 @@ category: Services
 title: Phòng ngủ 1
 description: |
 ---
-Phòng ngủ chính căn hộ chung cư.
+Phòng ngủ chính căn hộ chung cư. Chất liệu mdf lõi xanh chống ẩm phủ melamine.
