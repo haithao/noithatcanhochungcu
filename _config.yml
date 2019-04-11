@@ -23,7 +23,7 @@ permalink: pretty
 
 defaults:
   - scope:
-      path: "img/duan_done"
+      path: "img/anhthucte"
     values:
       image: true
 
