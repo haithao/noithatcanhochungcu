@@ -21,6 +21,12 @@ credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme cr
 markdown: kramdown
 permalink: pretty
 
+defaults:
+  - scope:
+      path: "img/duan_done"
+    values:
+      image: true
+
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
