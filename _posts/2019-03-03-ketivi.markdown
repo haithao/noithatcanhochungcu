@@ -1,0 +1,9 @@
+---
+layout: default
+img: ketivi.png
+category: Services
+title: Kệ ti vi phòng khách
+description: |
+---
+  Kệ tivi phòng khách của căn hộ. 
+  Chất liệu mdf lõi xanh chống ẩm phủ melamine.

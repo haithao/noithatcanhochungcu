@@ -1,0 +1,8 @@
+---
+layout: default
+img: bep.png
+category: Services
+title: Mặt bằng điển hình
+description: |
+---
+  Mặt bằng điển hình căn hộ 2 phòng ngủ.
